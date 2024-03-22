@@ -6,7 +6,7 @@ tags:
   - Redis
 halo:
   site: http://120.76.228.140:8090
-  name: d0bb2339-0090-40a1-8b5c-88602025d5f5
+  name: 990fa7bd-8817-42bd-8663-1b401c16a763
   publish: false
 ---
 ## Redis持久化
