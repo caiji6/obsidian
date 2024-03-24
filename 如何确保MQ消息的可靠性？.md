@@ -4,6 +4,7 @@ categories:
   - 消息队列
 tags:
   - RabbitMQ
+  - 业务
 halo:
   site: http://120.76.228.140:8090
   name: 2bfcc2b2-6db1-494b-bd44-65e7d16c4563
